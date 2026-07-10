@@ -26,7 +26,7 @@ The pipeline integrates a configurable Geant4 C++ detector simulation backend wi
 
 It supports solid cylindrical, hollow annular, and near-4π soccer-ball detector geometries, along with scintillator materials such as NaI, LaBr3, CsI, BGO, GGAG, and PbWO4.
 
-This work forms the basis of my undergraduate thesis and a first-author paper submitted to IEEE Nuclear Science Symposium 2026.
+This work forms the basis of my undergraduate thesis and a first-author paper accepted for poster presentation at IEEE Nuclear Science Symposium 2026.
 
 ---
 
@@ -52,8 +52,8 @@ Designed and maintain a Raspberry Pi-based home server for self-hosted services,
 
 **A. Priyadarshi**, G. A. Kumar, K. Madhan, and V. Ranga,  
 “A Python-based Tool for Automated Geant4 Simulations of Scintillation Detectors,”  
-submitted to IEEE Nuclear Science Symposium, 2026.  
-**Status:** Under review.
+accepted for poster presentation at IEEE Nuclear Science Symposium, 2026.  
+**Status:** Accepted for poster presentation.
 
 ---
 

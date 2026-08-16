@@ -24,7 +24,7 @@ The pipeline integrates a configurable Geant4 C++ detector simulation backend wi
 
 It supports solid cylindrical, hollow annular, and near-4π soccer-ball detector geometries, along with scintillator materials such as NaI, LaBr3, CsI, BGO, GGAG, and PbWO4.
 
-This work forms the basis of my undergraduate thesis and a first-author paper accepted for poster presentation at IEEE Nuclear Science Symposium 2026.
+This work forms the basis of my master's thesis and a first-author paper accepted for poster presentation at IEEE Nuclear Science Symposium 2026.
 
 ---
 

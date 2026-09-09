@@ -17,7 +17,7 @@ A public Python package and command-line tool for calculating annular-detector a
 **Repository:**<br>
 https://github.com/ayushpriyadarshi-18/angular-factors-calculator
 
-The package accompanies my first- and corresponding-author conference manuscript prepared for submission to the DAE Symposium on Nuclear Physics 2026.
+The package accompanies my first- and corresponding-author conference paper submitted to the DAE Symposium on Nuclear Physics 2026 on 8 September 2026.
 
 ---
 
@@ -61,7 +61,7 @@ Designed and maintain a Raspberry Pi-based home server for self-hosted services,
 
 **A. Priyadarshi**, R. Chauhan, A. Srivastava, and G. Anil Kumar,<br>
 “Angle-resolved annihilation-photon correlation factors for an annular NaI(Tl) detector,”<br>
-conference-paper manuscript prepared for submission to the DAE Symposium on Nuclear Physics, 2026.<br>
+submitted to the DAE Symposium on Nuclear Physics, 2026. Submission date: 8 September 2026.<br>
 **Role:** First and corresponding author.
 
 **A. Priyadarshi**, G. A. Kumar, K. Madhan, and V. Ranga,  

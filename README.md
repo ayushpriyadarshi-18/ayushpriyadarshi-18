@@ -69,6 +69,8 @@ submitted to the DAE Symposium on Nuclear Physics, 2026. Submission date: 8 Sept
 accepted for poster presentation at IEEE Nuclear Science Symposium, 2026.  
 **Status:** Accepted for poster presentation.
 
+**Related recognition:** Selected recipient of the **2026 Paul Phelps Continuing Education Grant**, recognising promise in radiation instrumentation and supporting participation in IEEE NSS/MIC/RTSD 2026 short courses.
+
 ---
 
 ## Links

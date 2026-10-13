@@ -43,7 +43,7 @@ This work forms the basis of my master's thesis and a first-author paper accepte
 
 ### Radio Telescope Control and Embedded Linux Support
 
-Contributed to Raspberry Pi-based embedded Linux and hardware-control support for a student-led radio telescope project under the Physics and Astronomy Club, IIT Roorkee, including Wi-Fi driver decompilation/recompilation and interfacing motors, magnetic sensors, and accelerometers.
+Contributed to Raspberry Pi-based embedded Linux and hardware-control support for a student-led radio telescope project under the Physics and Astronomy Club, IIT Roorkee, including modifying and rebuilding a Wi-Fi driver for Raspberry Pi compatibility and interfacing motors, magnetic sensors, and accelerometers.
 
 ### WiFi IP Mouse
 
